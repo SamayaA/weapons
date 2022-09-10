@@ -1,4 +1,4 @@
-import { getSpecialAttack } from '../index';
+import getSpecialAttack from '../index';
 
 test.each([
   [{
